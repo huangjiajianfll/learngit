@@ -3,4 +3,9 @@ Git is free softwar distributed ender the GPL.
 Git has a mutable index  called stage
 huangjiajian
 Git tracks changes
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> featurel
+Creating a new branch is quick and simple.
